@@ -1,6 +1,6 @@
 # CompressMate
 
-![CompressMate Logo](path/to/logo.png)
+![CompressMate Logo](compressedfile.png)
 
 ## Overview
 
